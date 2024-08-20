@@ -1,0 +1,3 @@
+/home/ravenclaw/projects/threadpool_tests/exam/CMakeFiles/threadpool_test.dir
+/home/ravenclaw/projects/threadpool_tests/exam/CMakeFiles/edit_cache.dir
+/home/ravenclaw/projects/threadpool_tests/exam/CMakeFiles/rebuild_cache.dir

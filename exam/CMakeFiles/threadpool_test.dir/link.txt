@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/threadpool_test.dir/home/ravenclaw/projects/threadpool_tests/src/main_test.c.o -o threadpool_test   -L/home/ravenclaw/projects/threadpool_tests/exam/../install/lib  -Wl,-rpath,/home/ravenclaw/projects/threadpool_tests/exam/../install/lib -lthreadpool

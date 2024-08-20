@@ -1,0 +1,2 @@
+/home/ravenclaw/projects/threadpool_tests/install/lib/libthreadpool.so
+/home/ravenclaw/projects/threadpool_tests/install/include/mine-threadpool.h
